@@ -13,7 +13,7 @@ telefone             text
 Exemplo no Supabase
 
 id                   nome             telefone
-1                    Alax             21985462312
+1                    Maria             21989542452
 
 
 ## Variáveis de ambiente
